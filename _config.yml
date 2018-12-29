@@ -38,7 +38,8 @@ github_username:    wumeilian
 paginate: 10
 plugins: [jekyll-paginate]
 # gems: [jekyll-paginate]
-
+markdown: kramdown
+#toc_levels: 1..2
 
 # Gitalk
 gitalk:
